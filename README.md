@@ -1,2 +1,2 @@
-# FirstTheme
- This is the first theme i ever made
+# FirstTheme1
+ This a Wordpress theme
